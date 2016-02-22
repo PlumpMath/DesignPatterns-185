@@ -1,0 +1,6 @@
+F:\Projects\ForMyGitHub\DesignPatterns\Generating\AbstractFactory\TransportFactory\TransportFactory\bin\Debug\TransportFactory.exe.config
+F:\Projects\ForMyGitHub\DesignPatterns\Generating\AbstractFactory\TransportFactory\TransportFactory\bin\Debug\TransportFactory.exe
+F:\Projects\ForMyGitHub\DesignPatterns\Generating\AbstractFactory\TransportFactory\TransportFactory\bin\Debug\TransportFactory.pdb
+F:\Projects\ForMyGitHub\DesignPatterns\Generating\AbstractFactory\TransportFactory\TransportFactory\obj\Debug\TransportFactory.csprojResolveAssemblyReference.cache
+F:\Projects\ForMyGitHub\DesignPatterns\Generating\AbstractFactory\TransportFactory\TransportFactory\obj\Debug\TransportFactory.exe
+F:\Projects\ForMyGitHub\DesignPatterns\Generating\AbstractFactory\TransportFactory\TransportFactory\obj\Debug\TransportFactory.pdb
